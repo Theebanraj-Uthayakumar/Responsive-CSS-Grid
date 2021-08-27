@@ -1,5 +1,8 @@
 # Responsive-CSS-Grid
 ---Desktop View---
-<img width="1440" alt="Screenshot 2021-08-27 at 15 36 46" src="https://user-images.githubusercontent.com/69495468/131110941-289e0758-c5f1-4a9d-8c5b-81659434414d.png">
+<img width="1440" alt="Screenshot 2021-08-27 at 15 36 46" src="https://user-images.githubusercontent.com/69495468/131111323-790bf266-8864-4f97-a7b7-3d821c700a6c.png">
+
 ---Mobile View---
-<img width="500" alt="Screenshot 2021-08-27 at 15 36 57" src="https://user-images.githubusercontent.com/69495468/131111023-393f089d-3e28-4dc7-b9f1-41d0f6d66f2a.png">
+<img width="500" alt="Screenshot 2021-08-27 at 15 36 57" src="https://user-images.githubusercontent.com/69495468/131111363-19a5037a-8d20-45df-8823-a6541f7747e8.png">
+
+
